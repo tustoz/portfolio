@@ -99,7 +99,7 @@ export const info = {
       startDate: "2022",
       endDate: "Present",
       description: [
-        "(Undergraduate) Bachelor of Informatics Engineering, IT & Big Data Analytics (IBDA), GPA: 3.0",
+        "(Undergraduate) Bachelor of Informatics Engineering, IT & Big Data Analytics (IBDA)",
       ],
     },
     {
@@ -107,7 +107,7 @@ export const info = {
       location: "Pekanbaru, Riau, Indonesia",
       startDate: "2018",
       endDate: "2022",
-      description: ["Natural Sciences Major, GPA: 82.17"],
+      description: ["Natural Sciences Major"],
     },
   ],
 
