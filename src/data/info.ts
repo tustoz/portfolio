@@ -130,21 +130,21 @@ export const info = {
     {
       title: "Car Rental App",
       isFeatured: true,
-      thumbnail: "/assets/images/car-rental.png",
+      thumbnail: "/assets/images/car-rental.webp",
       githubUrl: "https://github.com/tustoz/car_rental",
     },
 
     {
       title: "Crypto Wallet App",
       isFeatured: false,
-      thumbnail: "/assets/images/crypto-wallet.png",
+      thumbnail: "/assets/images/crypto-wallet.webp",
       githubUrl: "https://github.com/tustoz/crypto_wallet",
     },
 
     {
       title: "Online Course App",
       isFeatured: false,
-      thumbnail: "/assets/images/online-course.jpg",
+      thumbnail: "/assets/images/online-course.webp",
       githubUrl: "https://github.com/tustoz/online_course",
     },
 
@@ -153,7 +153,7 @@ export const info = {
     {
       title: "Netflix Redesign App",
       isFeatured: true,
-      thumbnail: "/assets/images/netflix-redesign.png",
+      thumbnail: "/assets/images/netflix-redesign.webp",
       githubUrl: "https://github.com/tustoz/netflix_redesign",
       // liveUrl: "https://github.com/tustoz/netflix_redesign/releases/download/0.0.1/app-release.apk",
     },
@@ -161,14 +161,14 @@ export const info = {
     {
       title: "Coffeeholic App",
       isFeatured: false,
-      thumbnail: "/assets/images/coffee-shop-finder.png",
+      thumbnail: "/assets/images/coffee-shop-finder.webp",
       githubUrl: "https://github.com/tustoz/coffee_shop_finder",
     },
 
     {
       title: "Foodies App",
       isFeatured: false,
-      thumbnail: "/assets/images/foodies.png",
+      thumbnail: "/assets/images/foodies.webp",
       githubUrl: "https://github.com/tustoz/foodies",
     },
   ],
