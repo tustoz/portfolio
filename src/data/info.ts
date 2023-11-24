@@ -15,34 +15,36 @@ export const info = {
 
   experience: [
     {
+      name: "Flutter Mentor @ Eduwork",
+      location: "Yogyakarta, Indonesia",
+      startDate: "Sep 2023",
+      endDate: "Present",
+      description: [
+        "",
+      ],
+    },
+
+    {
+      name: "Research Assistant @ Calvin Institute of Technology",
+      location: "Jakarta, Special Capital Region of Jakarta, Indonesia",
+      startDate: "Sep 2023",
+      endDate: "Present",
+      description: [
+        "Research Assistant for VIVENT 1500 CPAP/CV-CMV Medical Emergency Ventilator Project.",
+      ],
+    },
+
+    {
       name: "Freelance Flutter Developer @ Fiverr International, Ltd",
       location: "Jakarta, Special Capital Region of Jakarta, Indonesia",
       startDate: "Jan 2023",
-      endDate: "Present",
+      endDate: "Sep 2023",
       description: [
         "✓ Provide solutions to client needs, from user interface design to development of unique features.",
         "✓ Ensuring the developed applications meet quality standards and client needs through unit tests.",
         "✓ Develop mobile-based applications that can run on the Android and iOS platforms and upload them to the appstore and playstore.",
       ],
     },
-
-    // {
-    //   name: "Flutter Developer @ The Shalom and Levy Group, Inc",
-    //   location: "Beverly Hills, California, United States",
-    //   startDate: "Jun 2023",
-    //   endDate: "Aug 2023",
-    //   description: [
-    //     "The Shalom and Levy Group is a wellness company that is focused on mental wellness for everyone. Their app 'Boom Journal' is the one-stop shop for all tools related to mental well-being. They offer a daily guided mindful journal, as well as other resources to help people improve their mental health.",
-    //     "‎",
-    //     "Some of my responsibilities:",
-    //     "‎",
-    //     "✓ Redesign existing Boom Journal applications to enhance functionality.",
-    //     "✓ Develop and maintain Flutter applications for Boom Journal, ensuring efficient user experience.",
-    //     "✓ Write clean, well-structured, and maintainable code using Dart and Flutter framework.",
-    //     "✓ Conduct thorough testing of the applications to identify and fix bugs, performance issues, and compatibility problems across various devices.",
-    //     "✓ Integrate Firebase backend services (such as Firestore, Authentication, Cloud Functions, etc.) to handle data storage, user authentication, in-app chat, and serverless functions.",
-    //   ],
-    // },
 
     {
       name: "Data Administrator @ Linfox Logistic Indonesia, Ltd",
