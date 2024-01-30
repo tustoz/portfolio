@@ -14,15 +14,15 @@ export const info = {
   `,
 
   experience: [
-    {
-      name: "Flutter Mentor @ Eduwork",
-      location: "Yogyakarta, Indonesia",
-      startDate: "Sep 2023",
-      endDate: "Present",
-      description: [
-        "",
-      ],
-    },
+    // {
+    //   name: "Flutter Mentor @ Eduwork",
+    //   location: "Yogyakarta, Indonesia",
+    //   startDate: "Sep 2023",
+    //   endDate: "Present",
+    //   description: [
+    //     "",
+    //   ],
+    // },
 
     {
       name: "Research Assistant @ Calvin Institute of Technology",
@@ -63,22 +63,22 @@ export const info = {
       ],
     },
 
-    {
-      name: "Co-Founder @ Muju Indonesia Maju, Ltd",
-      location: "South Tangerang, Banten, Indonesia",
-      startDate: "Dec 2020",
-      endDate: "Jul 2022",
-      description: [
-        "Muju is a platform that lets you book sports venues and fields quickly and easily.",
-        "‎",
-        "Some of my responsibilities:",
-        "‎",
-        "✓ Write high-quality, clean, and maintainable code and technical documentation.",
-        "✓ Actively collaborate with cross-functional teams to define, design, and ship new features.",
-        "✓ Maintaining software through product lifecycle including design, development, verification and bug fixes.",
-        "✓ Design, develop, and maintain high-quality mobile applications for user & partner using the Flutter framework.",
-      ],
-    },
+    // {
+    //   name: "Co-Founder @ Muju Indonesia Maju, Ltd",
+    //   location: "South Tangerang, Banten, Indonesia",
+    //   startDate: "Dec 2020",
+    //   endDate: "Jul 2022",
+    //   description: [
+    //     "Muju is a platform that lets you book sports venues and fields quickly and easily.",
+    //     "‎",
+    //     "Some of my responsibilities:",
+    //     "‎",
+    //     "✓ Write high-quality, clean, and maintainable code and technical documentation.",
+    //     "✓ Actively collaborate with cross-functional teams to define, design, and ship new features.",
+    //     "✓ Maintaining software through product lifecycle including design, development, verification and bug fixes.",
+    //     "✓ Design, develop, and maintain high-quality mobile applications for user & partner using the Flutter framework.",
+    //   ],
+    // },
 
     {
       name: "Tech Influencer @ TikTok, Ltd",
@@ -104,13 +104,13 @@ export const info = {
         "(Undergraduate) Bachelor of Informatics Engineering, IT & Big Data Analytics (IBDA)",
       ],
     },
-    {
-      name: "Filiasofia Senior High School",
-      location: "Pekanbaru, Riau, Indonesia",
-      startDate: "2018",
-      endDate: "2022",
-      description: ["Natural Sciences Major"],
-    },
+    // {
+    //   name: "Filiasofia Senior High School",
+    //   location: "Pekanbaru, Riau, Indonesia",
+    //   startDate: "2018",
+    //   endDate: "2022",
+    //   description: ["Natural Sciences Major"],
+    // },
   ],
 
   socialMedia: {
